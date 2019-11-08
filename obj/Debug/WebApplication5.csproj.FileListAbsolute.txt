@@ -1,0 +1,115 @@
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\bin\roslyn\csc.exe
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\bin\roslyn\csc.exe.config
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\bin\roslyn\csc.rsp
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\bin\roslyn\csi.exe
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\bin\roslyn\csi.exe.config
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\bin\roslyn\csi.rsp
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\bin\roslyn\Microsoft.Win32.Primitives.dll
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\bin\roslyn\System.AppContext.dll
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\bin\roslyn\System.Collections.Immutable.dll
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\bin\roslyn\System.Console.dll
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\bin\roslyn\System.Diagnostics.Process.dll
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\bin\roslyn\System.IO.Compression.dll
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\bin\roslyn\System.IO.FileSystem.dll
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\bin\roslyn\System.IO.Pipes.dll
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\bin\roslyn\System.Security.AccessControl.dll
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\bin\roslyn\System.Security.Claims.dll
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\bin\roslyn\System.Security.Principal.Windows.dll
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\bin\roslyn\System.Threading.Thread.dll
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\bin\roslyn\System.ValueTuple.dll
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\bin\roslyn\System.Xml.XmlDocument.dll
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\bin\roslyn\System.Xml.XPath.dll
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\bin\roslyn\vbc.exe
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\bin\roslyn\vbc.exe.config
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\bin\roslyn\vbc.rsp
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\bin\roslyn\VBCSCompiler.exe
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\bin\roslyn\VBCSCompiler.exe.config
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\bin\WebApplication5.dll.config
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\bin\WebApplication5.dll
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\bin\WebApplication5.pdb
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\obj\Debug\WebApplication5.csprojResolveAssemblyReference.cache
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\obj\Debug\WebApplication5.csproj.CoreCompileInputs.cache
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\obj\Debug\WebApplication5.dll
+c:\users\kabo\source\repos\WebApplication5\WebApplication5\obj\Debug\WebApplication5.pdb
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\bin\roslyn\csc.exe
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\bin\roslyn\csc.exe.config
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\bin\roslyn\csc.rsp
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\bin\roslyn\csi.exe
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\bin\roslyn\csi.exe.config
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\bin\roslyn\csi.rsp
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\bin\roslyn\System.AppContext.dll
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\bin\roslyn\System.Collections.Immutable.dll
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\bin\roslyn\System.Console.dll
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\bin\roslyn\System.Diagnostics.Process.dll
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\bin\roslyn\System.IO.Compression.dll
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\bin\roslyn\System.IO.FileSystem.dll
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\bin\roslyn\System.IO.Pipes.dll
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\bin\roslyn\System.Reflection.Metadata.dll
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\bin\roslyn\System.Security.AccessControl.dll
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\bin\roslyn\System.Security.Claims.dll
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\bin\roslyn\System.Security.Principal.Windows.dll
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\bin\roslyn\System.Threading.Thread.dll
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\bin\roslyn\System.ValueTuple.dll
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\bin\roslyn\System.Xml.XmlDocument.dll
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\bin\roslyn\System.Xml.XPath.dll
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\bin\roslyn\vbc.exe
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\bin\roslyn\vbc.exe.config
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\bin\roslyn\vbc.rsp
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\bin\roslyn\VBCSCompiler.exe
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\bin\roslyn\VBCSCompiler.exe.config
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\bin\WebApplication5.dll.config
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\bin\WebApplication5.dll
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\bin\WebApplication5.pdb
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\obj\Debug\WebApplication5.csprojAssemblyReference.cache
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\obj\Debug\WebApplication5.csproj.CoreCompileInputs.cache
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\obj\Debug\WebApplication5.csproj.CopyComplete
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\obj\Debug\WebApplication5.dll
+E:\CV PROJECTS\JavaScript\Math Operation JS\WebApplication5\WebApplication5\obj\Debug\WebApplication5.pdb
